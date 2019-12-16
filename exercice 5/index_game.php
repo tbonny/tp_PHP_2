@@ -1,8 +1,8 @@
 <?php
 require ("personnages.php");
 
-$heavy = new personnage (1);
-$scout = new personnage (2);
+$heavy = new personnage (3);
+$scout = new personnage (4);
 
 
 $scout -> afficher();
